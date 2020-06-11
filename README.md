@@ -1,6 +1,8 @@
 # vue-js-em-uma-hra
 Projeto e ensinamentos da aula https://www.youtube.com/watch?v=cSa-SMVMGsE
 
+Nesse projeto o professor ensinou a fazer um processo de cadastro, visualização e remoção simulando uma página de Comentários.
+
 Um pouco mais sobre VueJs:
 - Criado por Evan You, quando trabalhava no Google decidiu criar sua própria biblioteca de UI.
 - 07/07/2013.
@@ -15,8 +17,7 @@ Um pouco mais sobre VueJs:
 - Importação Vuejs e como utilizar (Forma tradicional).
 - Reativo.
 - Diretivas: Maneira como acessar o html através do código.
-
--Single File Component:
+- Single File Component:
 -- O Vuejs através de seus compiladores permite que criemos um arquivo do tipo vue, pra criar o template e js que será o compenente.
 -- Para isso, utilizamos os compiladores do Vuejs.
 -- VueCLI, ferramenta de terminal que instalamos no computador através de npm, que cria um projeto com tudo configurado. (https://br.vuejs.org/v2/guide/installation.html#NPM)
